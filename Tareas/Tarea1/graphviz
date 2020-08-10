@@ -1,0 +1,11 @@
+digraph G{ 
+ node[style="filled",shape="circle",fillcolor="navyblue",fontcolor="white",color="green"];
+node1[label="3"]
+node2[label="10"]
+node3[label="25"]
+edge[color="red",arrowhead="crow"]
+node1->node2;
+node2->node1; 
+node2->node3;
+node3->node2;
+}
