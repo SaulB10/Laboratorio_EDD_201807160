@@ -1,0 +1,33 @@
+-------------Errores--------------------
+1) La lista no esta ordenada.
+
+2) en la linea 91 creas un nuevo nodo con malloc y luego lo dejas volando cuando haces actual
+igual a primero. Solo tienes que declarar el puntero sin reservar mermoria.
+
+3) En el metodo eliminar nodo tienes 2 nuevos nodos por cada eliminacion, si se hace una eliminacion
+se duplica el uso de la memoria. igual solo tienes que declarar el nodo Nodo* actual=primero;
+que eso no te daria problemas.
+
+
+4) Si ingreso 125 y luego le doy borrar me da segmentation fault. No consideraste el caso base
+
+5) No miro el metodo de generar codigo graphviz, solo editaste el archivo.
+
+-------------Recomencaciones-----------
+1) Es mejor y mas entendible para los que leen tu codigo si se encuentra dividido
+en multiples archivos.
+
+2) En la linea 98 tienes una condicion que si encontrado!=1
+Entiendo que es tu metodo de salida pero considero que es mejor darle un break asi ya hace la comparacion
+
+
+3) Te borre una libreria porque no me dejaba compilar
+-------------Nota---------------------
+
+Grafica 10/20
+Eliminar 20/40
+Get 35/40
+
+
+Total ---------- 65
+
