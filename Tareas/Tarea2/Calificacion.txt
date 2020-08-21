@@ -1,0 +1,20 @@
+-------------------Errores-------------------
+1) Se te olvido vaciar la cola
+2) No le diste delete a la cola
+3) El metodo de insertar esta malo no fue bien probado.
+
+4) El metodo hace lo siguiente, si es mayor a 65 aux que es el fondo de la cola
+le dices que su siguiente va ser el mismo fondo, osea se apunta a el mismo.
+Luego le dices que el tope osea el primer elemento sea nuevo, eso esta bien
+pero nunca le dices que nuevo siguiente va  a ser el top y como 
+hiciste top a nuevo perdes todos los elementos.
+
+------------------Recomendaciones-------------------
+1) Probar los metodos antes de todo, en el proyecto el archivo de entrada va a ser un poco extenso y lo mejor es que 
+pruebes las estructuras de todos los casos. Si tienen dudas no duden en preguntarme, para eso soy su auxiliar, yo les 
+tengo que explicar hasta que entiendan.
+
+----------------------------Nota----------------
+Total 80
+Pero por tu esfuerzo y veo que estas haciendo las cosas tienes nota de 100
+

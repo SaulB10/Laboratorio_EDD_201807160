@@ -50,7 +50,7 @@ void Queue<T>::vaciar(){
     NodoGenerico<T>*aux=this->top;
     NodoGenerico<T>*tmp;
     while(aux!=NULL){
-        //cout<<aux->getValue()<<"\n";
+        cout<<aux->getValue()<<"\n";
         tmp=aux->getSiguiente();
         delete aux;
         aux=tmp;
@@ -68,11 +68,9 @@ void Queue<T>::insertar(persona *p) {
     }else{
         NodoGenerico<T>*nuevo=new NodoGenerico<T>(p);
         NodoGenerico<T>*aux=this->bottom;
-        cout<<p->getEdad()<<endl;
+        //cout<<p->getEdad()<<endl;
         if (p->getEdad() >= 65){
-            cout<<"entre al if"<<endl;
-
-
+            //cout<<"entre al if"<<endl;
             aux->setSiguiente(bottom);
             this->top=nuevo;
             nuevo->setValue(p);
