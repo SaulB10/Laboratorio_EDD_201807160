@@ -1,0 +1,15 @@
+----------Errores-----------
+1) No miro que elimines el arbol, entonces queda en memoria
+2) Un try y catch es muy malo en unas estructuras de datos porque la alenta
+3) El preorden esta malo, llamas al inorden
+----------Recomendaciones---------
+1) Utilizar encapsulamiento
+2) Hacer el destructor
+3) Normalmente las clases no son todo con mayusculas
+---------Nota---------------
+
+Arbol     20/40
+Preorden  0/20
+Inorden   20/20
+Postorden 20/20
+Total 60
