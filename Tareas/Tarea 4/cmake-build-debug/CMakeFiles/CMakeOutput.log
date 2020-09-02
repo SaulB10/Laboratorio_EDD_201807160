@@ -1,0 +1,195 @@
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/MinGW/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/MinGW/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.o"
+
+The C compiler identification is GNU, found in "C:/Users/saulb/CLionProjects/Tarea 4/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.o"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/MinGW/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/MinGW/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
+
+The CXX compiler identification is GNU, found in "C:/Users/saulb/CLionProjects/Tarea 4/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.o"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/MinGW/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/MinGW/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.o"
+
+The C compiler identification is GNU, found in "C:/Users/saulb/CLionProjects/Tarea 4/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.o"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/MinGW/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/MinGW/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
+
+The CXX compiler identification is GNU, found in "C:/Users/saulb/CLionProjects/Tarea 4/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.o"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/saulb/CLionProjects/Tarea 4/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_98ab8/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_98ab8.dir\build.make CMakeFiles/cmTC_98ab8.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/saulb/CLionProjects/Tarea 4/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_98ab8.dir/testCCompiler.c.obj
+C:\MinGW\bin\gcc.exe    -o CMakeFiles\cmTC_98ab8.dir\testCCompiler.c.obj   -c "C:\Users\saulb\CLionProjects\Tarea 4\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+Linking C executable cmTC_98ab8.exe
+"C:\Program Files\JetBrains\CLion 2020\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_98ab8.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2020\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_98ab8.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\cmTC_98ab8.dir/objects.a @CMakeFiles\cmTC_98ab8.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_98ab8.dir/objects.a -Wl,--no-whole-archive  -o cmTC_98ab8.exe -Wl,--out-implib,libcmTC_98ab8.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_98ab8.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'C:/Users/saulb/CLionProjects/Tarea 4/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/MinGW/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/MinGW/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.o"
+
+The C compiler identification is GNU, found in "C:/Users/saulb/CLionProjects/Tarea 4/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.o"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/MinGW/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/MinGW/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
+
+The CXX compiler identification is GNU, found in "C:/Users/saulb/CLionProjects/Tarea 4/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.o"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/saulb/CLionProjects/Tarea 4/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_f952e/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_f952e.dir\build.make CMakeFiles/cmTC_f952e.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/saulb/CLionProjects/Tarea 4/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f952e.dir/testCCompiler.c.obj
+C:\MinGW\bin\gcc.exe    -o CMakeFiles\cmTC_f952e.dir\testCCompiler.c.obj   -c "C:\Users\saulb\CLionProjects\Tarea 4\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+Linking C executable cmTC_f952e.exe
+"C:\Program Files\JetBrains\CLion 2020\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_f952e.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2020\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_f952e.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\cmTC_f952e.dir/objects.a @CMakeFiles\cmTC_f952e.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_f952e.dir/objects.a -Wl,--no-whole-archive  -o cmTC_f952e.exe -Wl,--out-implib,libcmTC_f952e.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_f952e.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'C:/Users/saulb/CLionProjects/Tarea 4/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Users/saulb/CLionProjects/Tarea 4/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_f184b/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_f184b.dir\build.make CMakeFiles/cmTC_f184b.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/saulb/CLionProjects/Tarea 4/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_f184b.dir/testCXXCompiler.cxx.obj
+C:\MinGW\bin\g++.exe     -o CMakeFiles\cmTC_f184b.dir\testCXXCompiler.cxx.obj -c "C:\Users\saulb\CLionProjects\Tarea 4\cmake-build-debug\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+Linking CXX executable cmTC_f184b.exe
+"C:\Program Files\JetBrains\CLion 2020\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_f184b.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2020\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_f184b.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\cmTC_f184b.dir/objects.a @CMakeFiles\cmTC_f184b.dir\objects1.rsp
+C:\MinGW\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_f184b.dir/objects.a -Wl,--no-whole-archive  -o cmTC_f184b.exe -Wl,--out-implib,libcmTC_f184b.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_f184b.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'C:/Users/saulb/CLionProjects/Tarea 4/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+
