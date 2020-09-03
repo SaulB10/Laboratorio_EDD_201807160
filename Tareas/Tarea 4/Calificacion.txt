@@ -1,0 +1,18 @@
+----------------------Errores------------
+1) Tu programa funciona pero el problema es que lo estas recorriendo 2 veces para hacer un cambio
+Si nos ponemos a pensar en eficiencia si tienes un arreglo de 1000, lo tiene que recorrer con el de seleccion
+y aun asi hacer el cambio al arreglo de int.
+2) Por un arreglo de string tienes un arreglo de int.
+3) Tambien estoy viendo que tienes un arreglo con valores y otro llamado nuevo. por lo que creo que es el triple de tamanio
+----------------------Recomendaciones----
+1) Cuando declaras un arreglo de la forma a[]={} no es necesario declarar el tamanio del arreglo ya que por
+defecto el agarra los elementos que le estas asignando.
+2) Yo hubiera desarrollado la funcion toascii la cual me retornaba el valor de la cadena y guardarlo en temporales.
+para que no tenga que guardar la posicion.
+
+----------------------nota---------------
+Metodo                      80/80
+Buenas practicas            5/20
+
+Total-------85
+

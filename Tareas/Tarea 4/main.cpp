@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
-string Palabras[5]={"Saul","Barillas","hola","como estas","bien"};
+
+string Palabras[]={"Hola como estas","Yo bien gracias","ESTE ES UN MENSAJE","Vamos a ganar EDD todos juntos","!!!!Vamos a sacar 100","$$$$$$$$$#$$$$$","Este es el ultimo mensaje del dia de hoy*45"};
 int ascii[5];
 void ArrayString(string Palabras[],int lenght);
 
